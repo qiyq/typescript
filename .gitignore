@@ -1,0 +1,7 @@
+# Node ===========
+.nodemonignore
+node_modules/
+.bower-*/
+.idea/
+# app ===========
+dist/
